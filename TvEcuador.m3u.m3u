@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ecuaplay.online/imagen/ecuavisa.jpg" group-title="GSE NO GROUP", Ecuavisa Guayaquil
+http://45.224.97.181:9999/Ecuavisa/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ecuaplay.online/imagen/ecuavisa.jpg" group-title="GSE NO GROUP", Ecuavisa Quito
+https://dai.google.com/linear/hls/pa/event/GyPkTVDZSXGhpOvxPK7m2g/stream/9166497a-ef3f-4df8-8075-bc7be3cfdd27:ATL/variant/5184c51b1ffdf844da0e8f917256da50/bandwidth/3014852.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ecuaplay.online/imagen/rts.jpg" group-title="GSE NO GROUP", RTS
+http://177.234.249.178:8888/RTS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ecuaplay.online/imagen/rts.jpg" group-title="GSE NO GROUP", RTS HD
+http://45.224.97.181:9999/RTS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ecuaplay.online/imagen/teleamazonas.png" group-title="GSE NO GROUP", Teleamazonas
+http://45.224.97.181:9999/Teleamazonas/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ecuaplay.online/imagen/teleamazonas.png" group-title="GSE NO GROUP", Teleamazonas HD
+http://179.60.51.134:8888/TELEAMAZONAS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ecuaplay.online/imagen/gamavison.png" group-title="GSE NO GROUP", GamaTv
+http://45.224.97.181:9999/Gamavision/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ecuaplay.online/imagen/tc.jpg" group-title="GSE NO GROUP", Tc Televisión
+http://177.234.249.178:8888/TC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ecuaplay.online/imagen/tc.jpg" group-title="GSE NO GROUP", Tc Televisión HD
+http://45.224.97.181:9999/TC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ecuaplay.online/imagen/oromartv.png" group-title="GSE NO GROUP", OromarTv
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ecuaplay.online/imagen/oromartv.png" group-title="GSE NO GROUP", OromarTv+
+https://stream.oromar.tv/hls/camriva/index.m3u8#07291eed52b2ab0d8e18e8667928451a6bafa765d39f4bbce7108c26ba36dc89
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Ñuka Tv
+https://cloudvideo.servers10.com:8081/8118/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TvOro
+http://45.187.0.19:9090/tvusa/tracks-v1a1/mono.m3u8
+
