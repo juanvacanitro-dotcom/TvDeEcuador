@@ -38,3 +38,5 @@ https://cloudvideo.servers10.com:8081/8118/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TvOro
 http://45.187.0.19:9090/tvusa/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TvOro
+http://45.187.0.19:9090/tvusa/tracks-v1a1/mono.m3u8
